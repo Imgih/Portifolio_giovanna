@@ -559,7 +559,6 @@
     .process-item p {
       color: var(--muted);
       font-size: .94rem;
-      text-align: justify;
     }
 
     .contact {
