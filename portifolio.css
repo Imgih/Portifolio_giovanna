@@ -180,6 +180,13 @@
       transform: translateY(-2px);
     }
 
+    .icon-linkedin,
+    .icon-github {
+      width: 18px;
+      height: 18px;
+      margin-right: 8px;
+    }
+
     .button-primary {
       color: white;
       background: var(--primary);
@@ -581,6 +588,15 @@
       gap: 20px;
       border-top: 1px solid var(--border);
       padding-top: 30px;
+    }
+
+    .icon-credit {
+      font-size: .75rem;
+      opacity: .6;
+    }
+
+    .icon-credit a {
+      color: inherit;
     }
 
     .reveal {
